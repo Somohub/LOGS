@@ -1578,7 +1578,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/screenshot-20200625-1810552-680x882.png",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-20200626-1503142-720x1021.png",
                 "active": true,
                 "showButtons": false,
                 "showText": false,

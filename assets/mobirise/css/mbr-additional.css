@@ -1820,17 +1820,16 @@ section.lazy-placeholder:after {
 .cid-s1CrfUCxpQ P {
   color: #767676;
 }
-.cid-s37LHyYOqv {
-  background: #149dcc;
-  padding-top: 15px;
-  padding-bottom: 30px;
-  background: linear-gradient(0deg, #149dcc, #ffffff);
+.cid-s37N53tVsJ {
+  background: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 60px;
 }
-.cid-s37LHyYOqv .video-block {
+.cid-s37N53tVsJ .video-block {
   margin: auto;
 }
 @media (max-width: 768px) {
-  .cid-s37LHyYOqv .video-block {
+  .cid-s37N53tVsJ .video-block {
     width: 100% !important;
   }
 }
